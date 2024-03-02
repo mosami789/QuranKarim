@@ -1,0 +1,21 @@
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\Quran Karim.exe.config
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\Quran Karim.exe
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\Quran Karim.pdb
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\Quran Karim.xml
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.vbproj.AssemblyReference.cache
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran_Karim.Resources.resources
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.vbproj.GenerateResource.cache
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.vbproj.CoreCompileInputs.cache
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.vbproj.CopyComplete
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.exe
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.xml
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.pdb
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\Guna.UI.dll
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran_Karim.MainForm.resources
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\Newtonsoft.Json.dll
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran_Karim.QuranKarim.resources
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\libmpv.dll
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\Quran Karim.exe.manifest
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\bin\Debug\mpv-1.dll
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran Karim.exe.manifest
+D:\MoSami\StormVersions\Quran Karim\Quran Karim\obj\Debug\Quran_Karim.Akzaer.resources
